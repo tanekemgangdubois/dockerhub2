@@ -30,4 +30,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ovdi/toto:jou
+          tags: ovdi/toto:jou2
